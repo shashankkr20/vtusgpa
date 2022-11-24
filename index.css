@@ -1,5 +1,8 @@
+body{
+    background-image: url('sem/sce.jpg');
+}
 .main{
-    border: 2px solid green;
+    /* border: 2px solid green; */
     size: inherit;
     display: flex;
     flex-direction: column;
@@ -7,16 +10,26 @@
     
 }
 .head{
-    border: 2px solid black;
+    /* border: 2px solid black; */
     padding: 30px;
     margin-bottom: 20px;
     font-size: xx-large;
+    text-align: center;
+    color: blueviolet;
 }
 .one,.two,.three,.four,.five,.six,.seven,.eight{
-    border:2px solid black;
-    background-color: brown;
-    padding: 20px;
-    margin-top: 10px;
+    /* border:2px solid black; */
+    background-color: coral;
+    /* border-radius: 4%; */
+    padding: 30px;
+    margin-top: 32px;
     text-align: center;
     font-size: large;
+    width: 50%;
+    border-radius: 9%;
+    align-self: center;
 }
+a{
+    text-decoration:none;
+    color: black;
+   }
