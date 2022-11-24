@@ -1,0 +1,31 @@
+.main{
+    padding: 10px;
+    /* border: 2px solid black; */
+    
+}
+.head{
+    /* border: 2px solid black; */
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 15px;
+    font-size: xx-large;
+    color: cornflowerblue;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    padding:5px;
+    /* border: 2px solid black; */
+}
+.a1,.a2,.a3,.a4,.a4,.a5,.a6,.a7,.a8,.a9{
+    margin-top: 10px;
+    padding: 15px;
+    font-size: large;
+    text-align: center;
+}
+.btn{
+    margin-top: 10px;
+    padding: 15px;
+    font-size: x-large;
+    background-color: darkgrey;
+}
